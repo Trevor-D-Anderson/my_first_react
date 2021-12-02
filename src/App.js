@@ -11,7 +11,7 @@ function App() {
         <p>* Run a marathon</p>
         <p>* Feed the dogs</p>
       </header>
-    </div>
+    </div> 
   );
 }
 
